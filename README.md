@@ -1,2 +1,14 @@
 # manguanroute-hub
-HTML page archive and documentation
+
+页面文件归档说明
+
+本仓库作为页面发布目录，保存任务生成的 HTML 文件。
+
+## 文件归档
+
+- HTML 页面用于访问展示
+- README 用于说明归档用途
+
+## 维护记录
+
+后续发布会继续追加页面，已有文件不会在 README 中逐一列出。
